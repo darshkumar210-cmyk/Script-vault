@@ -1,0 +1,6 @@
+{
+  "name": "Script & Template Monetization Engine",
+  "description": "Production-ready monetization engine and interactive resource hub with secure server-side link delivery, bot protection, and IP rate limiting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
