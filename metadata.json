@@ -1,6 +1,6 @@
 {
-  "name": "Script & Template Monetization Engine",
-  "description": "Production-ready monetization engine and interactive resource hub with secure server-side link delivery, bot protection, and IP rate limiting.",
+  "name": "Script Vault AI",
+  "description": "High-performance AI Script Creator & Direct Code Studio with Turbo Generation, AMP & Desktop Pro views, and zero-redirect file delivery.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
